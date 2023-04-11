@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwinAdventure", "SwinAdventure.csproj", "{DBDBFF20-17B1-4041-BB26-1C7B1A7970CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwinAdventureTests", "SwinAdventureTests\SwinAdventureTests.csproj", "{C581A958-B8E7-4776-974E-961665138F50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBDBFF20-17B1-4041-BB26-1C7B1A7970CC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{DBDBFF20-17B1-4041-BB26-1C7B1A7970CC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{DBDBFF20-17B1-4041-BB26-1C7B1A7970CC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{DBDBFF20-17B1-4041-BB26-1C7B1A7970CC}.Release|anycpu.Build.0 = Release|anycpu
+		{C581A958-B8E7-4776-974E-961665138F50}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{C581A958-B8E7-4776-974E-961665138F50}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{C581A958-B8E7-4776-974E-961665138F50}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{C581A958-B8E7-4776-974E-961665138F50}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
